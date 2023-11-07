@@ -1,15 +1,13 @@
-### Bem vindos ao meu perfil 💙
+### <h1>Bem vindos</h1> 💙
 
-Meu nome é Emanuely Vieira
+<b>Meu nome é Emanuely Vieira</b>
+
+<i>sou do Pr,Londrina</i>
 
 - Estou estudando no [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem Javascript
-- Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos
+- <b><i>ESTOU E DESENVOLVENDO NA LINGUAGEM JAVA SCRIPT</i></b>
+- Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos <i><b>desenvolvidos</b></i>
 
-### Para voçê entrar em contato comigo 📫
 
-Emanuelyvieira@escola.pr.gov.br
-
-@EmanuelyVieira
 
 ![](https://media.tenor.com/eN0iceEScLQAAAAd/fofo.gif)
